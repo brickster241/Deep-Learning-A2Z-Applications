@@ -1,5 +1,5 @@
 # Deep Learning A2Z Applications
- Creating and Implementing various Deep Learning Algorithms from scratch in Python  
+ Creating and Implementing various Deep Learning Algorithms from scratch in Python.  
 
 
 
@@ -9,7 +9,7 @@
 
 
 
- Inside this Repository, I have worked on Real-World datasets, to solve Real-World business problems. (. In this repo, there are implementations of six real-world challenges:  
+ Inside this Repository, I have worked on Real-World datasets, to solve Real-World business problems. (. In this repo, there are implementations of four real-world challenges:  
 
 
 
