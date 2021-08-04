@@ -1,4 +1,4 @@
-# Implementing Self-Organizing Maps to detect Frauds  
+## Implementing Self-Organizing Maps to detect Frauds  
 
 
 According to a recent report published by Markets & Markets the Fraud Detection and Prevention Market is going to be worth $33.19 Billion USD by 2021. This is a huge industry and the demand for advanced Deep Learning skills is only going to grow. That’s why we have included this case study in the course.  
