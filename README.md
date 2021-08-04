@@ -9,7 +9,7 @@
 
 
 
- Inside this Repository, I have worked on Real-World datasets, to solve Real-World business problems. (. In this repo, there are implementations of four real-world challenges:  
+ Inside this Repository, I have worked on Real-World datasets, to solve Real-World business problems. (. In this repo, there are implementations of six real-world challenges:  
 
 
 
@@ -18,3 +18,4 @@
  - Recurrent Neural Networks to predict Stock Prices.  
  - Self-Organizing Maps to investigate Fraud.  
  - Data Preprocessing Template to transform datasets into Training set and Test set with appropriate Feature Scaling.  
+ - Boltzmann Machines to create a Recomender System.  
