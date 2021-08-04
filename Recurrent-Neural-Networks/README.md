@@ -1,4 +1,4 @@
-# Implementing a LSTM Recurrent Neural Network to predict Google Open Stock Prices.  
+## Implementing a LSTM Recurrent Neural Network to predict Google Open Stock Prices.  
 
 
 In this part, you will create one of the most powerful Deep Learning models. We will even go as far as saying that you will create the Deep Learning model closest to “Artificial Intelligence”. Why is that? Because this model will have long-term memory, just like us, humans.  
