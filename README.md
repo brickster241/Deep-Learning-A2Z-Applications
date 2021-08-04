@@ -9,12 +9,7 @@
 
 
 
-<<<<<<< HEAD
- Inside this Repository, I have worked on Real-World datasets, to solve Real-World business problems. (. In this repo, there are implementations of six real-world challenges:  
-=======
  Inside this Repository, I have worked on Real-World datasets, to solve Real-World business problems. In this repo, there are implementations of five real-world challenges:  
->>>>>>> 98b60c21e95ba2c3df3b080275233a7a1d062031
-
 
 
  - Artificial Neural Networks to solve a Customer Churn problem.  
