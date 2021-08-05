@@ -1,4 +1,4 @@
-## Deep Learning A2Z Applications : 
+## Deep Learning A2Z Applications :
  Creating and Implementing various Deep Learning Algorithms from scratch in Python.  
 
 
@@ -17,4 +17,5 @@
  - Recurrent Neural Networks to predict Stock Prices.  
  - Self-Organizing Maps to investigate Fraud.  
  - Data Preprocessing Template to transform datasets into Training set and Test set with appropriate Feature Scaling.  
- - Boltzmann Machines to create a Recomender System.  
+ - Boltzmann Machines to create a Binary Recomender System.  
+ - Stacked AutoEncoders to create a rating (1-5) Recommender System.  
